@@ -113,3 +113,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/fe82c08b-a39d-46d2-aa5e-a18f71d2f091)
 
 ### Result:
+Thus,Link Analysis using HITS Algorithm code has been executed successfully
